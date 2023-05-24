@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { regionData } from 'element-china-area-data'
+
 const res = ref(0)
 onMounted(() => {
   res.value = 888
@@ -12,4 +14,9 @@ onMounted(() => {
   <div color-lightBlue>
     hhhhh<el-button>Default</el-button>
   </div>
+  <el-cascader
+    placeholder="请选择地区"
+    size="default"
+    :options="regionData"
+  />
 </template>
