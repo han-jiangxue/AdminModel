@@ -2,3 +2,19 @@
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
+## Git 贡献提交规范
+
+> reference [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) specification ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
+
+- `feat` 新特性、新功能
+- `fix` 修改 bug
+- `style` 代码格式修改, 注意不是 css 修改
+- `perf` 代码格式修改, 注意不是 css 修改
+- `refactor` 代码重构
+- `revert` 回滚到上一个版本
+- `test` 测试用例修改
+- `docs` 文档修改
+- `chore` 编译相关的修改，例如发布版本、对项目构建或者依赖的改动
+- `ci` 持续集成修改
+- `types` Type definition file changes
+- `wip` In development
