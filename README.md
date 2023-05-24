@@ -16,5 +16,4 @@ This template should help get you started developing with Vue 3 and TypeScript i
 - `docs` 文档修改
 - `chore` 编译相关的修改，例如发布版本、对项目构建或者依赖的改动
 - `ci` 持续集成修改
-- `types` Type definition file changes
-- `wip` In development
+
