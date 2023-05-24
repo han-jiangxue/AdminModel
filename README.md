@@ -17,4 +17,3 @@ This template should help get you started developing with Vue 3 and TypeScript i
 - `chore` 其他修改, 比如改变构建流程、或者增加依赖库、工具等
 - `ci` 持续集成修改
 - `build` 修改了编译相关的内容，发布版本、对项目构建或者依赖的改动
-
