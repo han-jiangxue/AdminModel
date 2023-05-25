@@ -9,6 +9,7 @@ This template should help get you started developing with Vue 3 and TypeScript i
 - [TypeScript](https://www.typescriptlang.org/)
 - [Element Plus](https://element-plus.org/zh-CN/)
 - [Uno.css](https://unocss.dev/)
+- [Icon](https://icones.js.org/collection/material-symbols)
 
 
 ## Git 贡献提交规范
